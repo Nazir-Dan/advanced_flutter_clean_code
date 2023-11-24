@@ -6,6 +6,7 @@
 # features
 
 -this app utilize MVVM code pattern to implement clean code practices.  
+-splash screen and onboarding screen.  
 -the app authentication features are login, register and forget password.  
 -implemented localization using easy_localization package for two languages (arabic - english).
 

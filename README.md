@@ -11,4 +11,6 @@
 -implemented localization using easy_localization package for two languages (arabic - english).
 
 # sceenshots
-<img src=previwe_images/Screenshot_1.png width = 200>
+<img src="preview_images/Screenshot_2.png" width = 300> <img src="preview_images/Screenshot_1.png" width = 300>
+<img src="preview_images/Screenshot_3.png" width = 300> <img src="preview_images/Screenshot_4.png" width = 300>
+<img src="preview_images/Screenshot_5.png" width = 300> <img src="preview_images/Screenshot_6.png" width = 300>

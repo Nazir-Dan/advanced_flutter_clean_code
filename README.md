@@ -11,4 +11,4 @@
 -implemented localization using easy_localization package for two languages (arabic - english).
 
 # sceenshots
-
+![Screenshot_1](Screenshot_1.png)

@@ -1,6 +1,6 @@
 # advanced_flutter_tut
 
--A flutter e-commerce mock app that utilize MVVM code pattern.
+-A flutter e-commerce mock app that utilize MVVM code pattern.  
 -all the implemented APIs are mock APIs created usein "app.wiremock.cloud" websit.  
 
 # features
